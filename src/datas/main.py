@@ -19,7 +19,7 @@ def main():
 
 
 def data():
-    """Recebe o valor digitado no formato 'datatime'"""
+    """Recebe o valor digitado no formato 'datetime'"""
     print('                      Formato: dd/mm/aaaa HH:MM')
     digitado = input('Digite sua data de nascimento: ')
     try:
