@@ -30,4 +30,5 @@ def data():
         print(datetime.strftime(datetime.now(), '%d/%m/%Y %H:%M'))
         exit(1)
 
+
 main()
