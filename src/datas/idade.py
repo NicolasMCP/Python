@@ -39,9 +39,9 @@ class Idade:
 
     def idade(self):
         """
-        Calcula a idade em dias, horas e minutos.
+        Calcula a idade em anos, meses e dias.
         Retorna uma lista.
-        :return: [dias, horas, minutos]
+        :return: [anos, meses, dias]
         """
         hoje = datetime.now()
         anos = hoje.year - self.__nascimento.year
