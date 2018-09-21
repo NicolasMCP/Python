@@ -1,10 +1,10 @@
 """
 Autor: Nicolas Ramos
 Data : 14/09/2018
-Nota : Exemplificar o uso da classe idade.
+Nota : Exemplificar o uso da classe Idade.
 """
 from datetime import datetime
-from src.datas.idade import Idade
+from src.datas.Idade import Idade
 
 
 def main():
