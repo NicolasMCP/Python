@@ -10,4 +10,6 @@ Código Python - Software Livre
 
 [Brincando com Datas](src/datas) Calculo de Idade (sem erro em caso de anos bissextos).
 
+[Monitorando arquivos](src/files) Lista de arquivos, arquivo mais recente, etc.
+
 [Loops](src/loops/loops.py) Exemplos muito simples de loops.
