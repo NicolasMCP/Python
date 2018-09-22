@@ -6,7 +6,7 @@
 
 
 
-Código Python 3.5 ou superior - Software Livre
+Código Python 3.x - Software Livre
 
 [Brincando com Datas](src/datas) Calculo de Idade (sem erro em caso de anos bissextos).
 
