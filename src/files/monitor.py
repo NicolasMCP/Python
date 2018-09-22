@@ -21,6 +21,7 @@ class Monitor:
             os.mkdir(self.__path_absoluto)
         if not os.path.isdir(self.__path_absoluto):
             print(f'ERROR: o caminho {self.__path_absoluto} não é um diretório!')
+            exit(1)
 
     def get_path(self):
         """
